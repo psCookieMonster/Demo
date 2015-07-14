@@ -1,11 +1,10 @@
-﻿function Join-Object
-{
+﻿function Join-Object {
     <#
     .SYNOPSIS
-        Join data from two sets of objects based on a common value
+        Join data from two sets of objects based on a common value.
 
     .DESCRIPTION
-        Join data from two sets of objects based on a common value
+        Join data from two sets of objects based on a common value.
 
         For more details, see the accompanying blog post:
             http://ramblingcookiemonster.github.io/Join-Object/
